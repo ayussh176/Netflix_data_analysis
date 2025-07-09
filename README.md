@@ -9,11 +9,11 @@
 ## Features
 
 - Data cleaning and preprocessing using Pandas
-- 📊 Visualizations using Matplotlib and Seaborn
-- 📆 Insights into content distribution by year
-- 🌍 Country-wise production trends
-- 🕵️‍♂️ Genre, cast, and director analysis
-- 📈 Explore movies vs TV shows, ratings, durations, etc.
+- Visualizations using Matplotlib and Seaborn
+- Insights into content distribution by year
+- Country-wise production trends
+- Genre, cast, and director analysis
+- Explore movies vs TV shows, ratings, durations, etc.
 
 ---
 
