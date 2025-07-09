@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language**: Python
 - **Libraries**: Pandas, Matplotlib, NumPy
